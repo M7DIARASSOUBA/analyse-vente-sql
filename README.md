@@ -59,3 +59,6 @@ SELECT, WHERE, GROUP BY, JOIN, CASE WHEN, sous-requêtes, CTE, fonctions de fen�
 ## Fichiers
 
 - analyse.sql : les requêtes de chaque question
+
+
+  ## **Tableau de bord Google Sheets** : https://docs.google.com/spreadsheets/d/17Q3ljJE7jOfxffT3sFiRM2eHMu8ZHhMzUcG0Z48ztPQ/edit?usp=sharing
